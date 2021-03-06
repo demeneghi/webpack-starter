@@ -19,8 +19,9 @@ npm run build
 Para reconstruir el build en desarrollo.
 ```
 npm run build:dev
-
+```
 
 Para iniciar el servidor
 ```
 npm start
+```
